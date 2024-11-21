@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "coveralls": "^3.1.1",
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
